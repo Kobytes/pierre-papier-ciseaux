@@ -85,6 +85,9 @@ header > h1
 {
   border: 5px solid white;
   border-radius: 50%;
+  width: 9vw;
+  height: 9vh;
+  text-align: center;
   display: inline-block;
   font-size: 100px;
   padding: 20px;
