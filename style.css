@@ -73,8 +73,6 @@ header > h1 {
 
 .choice {
   border: 5px solid white;
-  width: 9vw;
-  height: 9vw;
   border-radius: 50%;
   display: inline-block;
   text-align: center;
