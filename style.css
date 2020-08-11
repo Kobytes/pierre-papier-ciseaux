@@ -77,7 +77,7 @@ header > h1
 
 .choices
 {
-  margin: 50px 0;
+  margin-top: 50px;
   text-align: center;
 }
 
@@ -96,4 +96,14 @@ header > h1
 {
   cursor: pointer;
   background: #e63946;
+}
+
+#message
+{
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  padding-top: 30px;
 }
