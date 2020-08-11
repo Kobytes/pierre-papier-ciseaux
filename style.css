@@ -84,11 +84,14 @@ header > h1
 .choice
 {
   border: 5px solid white;
+  width: 9vw;
+  height: 9vw;
   border-radius: 50%;
   width: 9vw;
   height: 9vh;
   text-align: center;
   display: inline-block;
+  text-align: center;
   font-size: 100px;
   padding: 20px;
   margin: 0 20px;
