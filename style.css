@@ -64,5 +64,36 @@ header > h1
 
 .result
 {
-  
+  font-size: 40px;
+  color: white;
+}
+
+.result > p 
+{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.choices
+{
+  margin: 50px 0;
+  text-align: center;
+}
+
+.choice
+{
+  border: 5px solid white;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 100px;
+  padding: 20px;
+  margin: 0 20px;
+  transition: all 0.5s ease;
+}
+
+.choice:hover
+{
+  cursor: pointer;
+  background: #e63946;
 }
